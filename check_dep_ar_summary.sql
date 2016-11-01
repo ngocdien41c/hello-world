@@ -72,5 +72,4 @@ end;
 
 select * from spvb_temp_area_tbl
 
-
 select * from spvb_col_credit_headers_tbl where customer_id = 11681        
